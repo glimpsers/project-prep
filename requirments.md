@@ -34,7 +34,7 @@ Describe the individual features that your product will do.
 
 1. User can create an account that has his/her own information.
 
-2. User can pick his/her own interst to be viewed.
+2. User can pick his/her own interest to be viewed.
 
 3. User can write his/her own words in a post.
 
@@ -49,18 +49,18 @@ Describe the individual features that your product will do.
 
 ### OUT - What will your product not do
 
-1. User cant post any picture.
+1. User can't post any picture.
 
-2. User cant chat or call others.
+2. User can't chat or call others.
 
 <p> &nbsp; </p>
 
 
 ## Feature tasks
 
-1. The user will be able to add Frindes.
+1. The user will be able to add friends.
 
-2. The user will be able to add pictuers.
+2. The user will be able to add pictueres.
 
 3. The user will be able to chat with others.
 
@@ -69,13 +69,13 @@ Describe the individual features that your product will do.
 
 ## User Stories
 
-**Title**: User Story : As a user I would like to login and choose my intersts and see them at the home page in the website.
+**Title**: User Story : As a user I would like to log in and choose my interests and see them at the home page in the website.
 
-**Title**: User Story : As a user I would like to checkout my profile and do edit on it.
+**Title**: User Story : As a user I would like to checkout my profile and make edits on it.
 
 **Title**:  User Story : As a user I would like to see the public posts at the Home page.
 
-**Title**:  User Story : As a user I would like to write my opinion in a post and share it with others on my profile.
+**Title**:  User Story : As a user I would like to write my opinion in a post and share it with others on my Home Page.
 
 <p> &nbsp; </p>
 
