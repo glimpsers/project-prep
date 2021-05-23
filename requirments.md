@@ -2,21 +2,29 @@
 
 ![domain model](./assets/domain.png)
 
+<p> &nbsp; </p>
+
 ## Software Requirements
 
 ## Vision
 
 ### What is the vision of this application?
 
-Small social media applicatin aims to make the connection easier between the users by posting their own posts and commenting on others posts, they also can add their own intersts.
+- Small social media applicatin aims to make the connection easier between the users by posting their own posts and commenting on others posts, they also can add their own interests.
+<p> &nbsp; </p>
+
 
 ### What pain point does this project solve?
 
-It solves The difficulty of communication between people.
+- It solves the difficulty of communication between people.
+<p> &nbsp; </p>
+
 
 ### Why should we care about your application?
 
-We are creating a platform application where you can feel free to post your opinion without getting your post deleted without Content restriction.
+ - We are creating a platform application where you can feel free to post your opinion without getting your post deleted without content restriction.
+ <p> &nbsp; </p>
+
 
 ## Scope (In/Out)
 
@@ -36,26 +44,38 @@ Describe the individual features that your product will do.
 
 6. User will be able to like others posts.
 
+<p> &nbsp; </p>
+
+
 ### OUT - What will your product not do
 
 1. User cant post any picture.
 
 2. User cant chat or call others.
 
+<p> &nbsp; </p>
+
+
 ## Feature tasks
 
-1. The User will be able to add Frindes.
+1. The user will be able to add Frindes.
 
-2. The user wii be able to add pictuers.
+2. The user will be able to add pictuers.
 
-3. The user wii be able to chat with others.
+3. The user will be able to chat with others.
+
+<p> &nbsp; </p>
+
 
 ## User Stories
 
-**Title**: User Story : As a user i would like to login and choose my intersts and see them at the home page in the website.
+**Title**: User Story : As a user I would like to login and choose my intersts and see them at the home page in the website.
 
 **Title**: User Story : As a user I would like to checkout my profile and do edit on it.
 
-**Title**:  User Story : As a user i would like to see the public posts at the Home page.
+**Title**:  User Story : As a user I would like to see the public posts at the Home page.
 
-**Title**:  User Story : As a user i would like to write my opinion in a post and share it with others on my profile.
+**Title**:  User Story : As a user I would like to write my opinion in a post and share it with others on my profile.
+
+<p> &nbsp; </p>
+
