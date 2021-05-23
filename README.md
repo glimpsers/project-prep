@@ -5,8 +5,8 @@
 # Project- prep #1
 ## Names :
 - Mohammad Abu Mattar. 
-- Mohmammad Altamimi. 
 - Mohammad Jaradat. 
+- Mohmammad Altamimi. 
 - Rula Qasem. 
 - Ameen Betawi. 
 - abdullah Abu Khurma.
